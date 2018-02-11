@@ -3,6 +3,16 @@ body{
 	background-color: #E4F0F8;
 	margin: 0;
 	text-align: center;
+	  background-image: url("background.jpg");
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 header{
@@ -20,6 +30,7 @@ header{
 	color: white;
 	margin-top: 180px;
 	padding: 1%;
+	padding-top: 100px;
 }
 
 #me{
