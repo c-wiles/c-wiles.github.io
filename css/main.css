@@ -17,6 +17,20 @@ header{
 	/*color: white;*/
 }
 
+button{
+	height: 40px;
+	width: 90px;
+	color: white;
+    background-color: #173753;
+    border: none;
+    box-shadow: 0px 0px 10px;
+}
+
+button:hover{
+	background-color:  #8091A1;
+	color: black;
+}
+
 .secondHeader{
 	width: 100%;
 	/*background-color: #173753;*/
