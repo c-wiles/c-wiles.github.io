@@ -3,9 +3,9 @@ body{
 }
 
 header{
+	width: 100%;
 	position: fixed;
 	top: 0;
-	width: 100%;
 	background-color: #173753;
 	color: white;
 }
