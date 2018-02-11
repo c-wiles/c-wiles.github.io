@@ -12,7 +12,7 @@ body{
 header{
 	width: 100%;
 	position: absolute;
-	top: 80px;
+	top: 70px;
 	/*background-color: #173753;*/
 	/*color: white;*/
 }
@@ -22,15 +22,15 @@ header{
 	width: 100%;
 	background-color: #173753;
 	color: white;
-	margin-top: 180px;
-	padding-top: 100px;
+	margin-top: 200px;
+	padding-top: 120px;
 	padding-bottom: 50px;
 	box-shadow: 0px 0px 20px black;
 }
 
 #me{
-	width: 200px;
-	height: 200px;
+	width: 250px;
+	height: 250px;
 	margin-left: auto;
 	margin-right: auto;
  	display: block;
