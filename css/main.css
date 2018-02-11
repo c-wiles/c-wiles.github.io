@@ -45,7 +45,7 @@ button:hover{
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+header:hover .overlay {
   opacity: 1;
 }
 
