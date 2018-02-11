@@ -3,16 +3,10 @@ body{
 	background-color: #E4F0F8;
 	margin: 0;
 	text-align: center;
-	/*  background-image: url("./img/background.jpg");
-
-    
-    height: 50%;
-
-    
-    background-position: center;
+	background-image: url("../img/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;*/
+
 }
 
 header{
@@ -29,8 +23,8 @@ header{
 	background-color: #173753;
 	color: white;
 	margin-top: 180px;
-	padding: 1%;
 	padding-top: 100px;
+	padding-bottom: 50px;
 }
 
 #me{
