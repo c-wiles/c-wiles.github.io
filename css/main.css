@@ -21,9 +21,9 @@ header{
 	width: 100%;
 	background-color: #173753;
 	color: white;
-	margin-top: 200px;
-	padding-top: 100px;
-	padding-bottom: 50px;
+	margin-top: 125px;
+    padding-top: 185px;
+	/*padding-bottom: 50px;*/
 	box-shadow: 0px 0px 20px black;
 }
 
@@ -34,6 +34,8 @@ header{
 	/*padding-top: 120px;*/
 	/*padding-bottom: 50px;*/
 	/*box-shadow: 0px 0px 20px black;*/
+	background-color: rgba(0, 0, 0, 0.6);
+
 }
 
 #me{
