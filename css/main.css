@@ -1,8 +1,12 @@
 body{
-	/*font-family: verdana;*/
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	/*font-family: 'Lora', serif;*/
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Lobster', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Source Serif Pro', serif;*/
+font-family: 'PT Serif', serif;
+/*font-family: 'Source Serif Pro', serif;*/
+	font-size: 22px;
 	background-color: #E4F0F8;
 	margin: 0;
 	text-align: center;
@@ -12,7 +16,10 @@ body{
 
 }
 
-h1{font-family: 'Open Sans', sans-serif;}
+h1{
+	font-family: 'Lobster', cursive;
+	font-size: 55px;
+}
 
 a{
 	color:white;
@@ -92,6 +99,7 @@ button:hover{
 	/*position: relative;*/
 	background-color: rgba(19, 46, 68, 0.9);
 	color: white;
+	/*font-family: 'Libre Baskerville', serif;*/
 	margin-top: -140px;
 	padding-top: 175px;
 	padding-bottom: 1px;
