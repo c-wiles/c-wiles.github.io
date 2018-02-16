@@ -1,0 +1,9 @@
+@import 'main.css';
+
+input{width: 50%;}
+
+textarea{
+	width: 50%;
+	height: 50%;
+	resize: none;
+}
